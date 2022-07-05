@@ -1,0 +1,52 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Core",
+        "repositoryURL": "https://git.ebpearls.com/app-packages/core.git",
+        "state": {
+          "branch": null,
+          "revision": "9f7b01ef93917d928b6968734a6250791fcacc22",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "KeychainAccess",
+        "repositoryURL": "https://github.com/kishikawakatsumi/KeychainAccess.git",
+        "state": {
+          "branch": null,
+          "revision": "84e546727d66f1adc5439debad16270d0fdd04e7",
+          "version": "4.2.2"
+        }
+      },
+      {
+        "package": "Logger",
+        "repositoryURL": "https://git.ebpearls.com/app-packages/logger.git",
+        "state": {
+          "branch": null,
+          "revision": "a8041cd0a95d77673b95a0810bb42264f544a48f",
+          "version": "0.0.6"
+        }
+      },
+      {
+        "package": "Networking",
+        "repositoryURL": "https://git.ebpearls.com/app-packages/networking.git",
+        "state": {
+          "branch": null,
+          "revision": "8b939bcf3c67d8bcf732ae29da6a1d10e07d7cc8",
+          "version": "0.0.10"
+        }
+      },
+      {
+        "package": "Validator",
+        "repositoryURL": "https://git.ebpearls.com/app-packages/validator.git",
+        "state": {
+          "branch": null,
+          "revision": "1cf9a4120151e47bc794b7195ba35ec58c3f6f68",
+          "version": "0.0.8"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
